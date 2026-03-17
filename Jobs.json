@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Shop Attendant",
+    "location": "Dodoma",
+    "salary": "TSH 300,000",
+    "category": "Local"
+  },
+  {
+    "title": "Delivery Rider",
+    "location": "Dar es Salaam",
+    "salary": "TSH 500,000",
+    "category": "Local"
+  },
+  {
+    "title": "Online Data Entry",
+    "location": "Remote",
+    "salary": "$5/hour",
+    "category": "Online"
+  },
+  {
+    "title": "Instagram Manager",
+    "location": "Remote",
+    "salary": "$10/hour",
+    "category": "Hustle"
+  }
+]
