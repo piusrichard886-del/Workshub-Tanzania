@@ -1,0 +1,43 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: green;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.search {
+  text-align: center;
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 80%;
+  max-width: 400px;
+}
+
+.categories {
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+
+.job {
+  background: white;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+}
