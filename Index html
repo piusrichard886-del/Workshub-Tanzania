@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KAZIHub Tanzania</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>KAZIHub Tanzania</h1>
+  <p>Find Jobs. Find Hustles. Build Your Future.</p>
+</header>
+
+<section class="search">
+  <input type="text" id="searchInput" placeholder="Search jobs...">
+</section>
+
+<section class="categories">
+  <button onclick="filterJobs('all')">All</button>
+  <button onclick="filterJobs('Online')">Online</button>
+  <button onclick="filterJobs('Local')">Local</button>
+  <button onclick="filterJobs('Hustle')">Hustles</button>
+</section>
+
+<section id="jobs"></section>
+
+<script src="script.js"></script>
+</body>
+</html>
